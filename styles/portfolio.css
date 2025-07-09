@@ -76,3 +76,33 @@ nav a{
 .banner-content{
     max-width: 540px;
 }
+
+.section-title{
+    color: black;
+    font-size: 35px;
+    font-weight: bold;
+    
+}
+.section-description{
+    color: #757575;
+    font-size: 20px;
+    font-weight: normal;
+    
+    
+}
+
+.bg-secondary{
+    background-color: #fff8f3;
+}
+
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about{
+    border-radius: 10px;
+    text-align: center;
+    padding: 130px 150px;
+    margin-top: 130px;
+
+}
